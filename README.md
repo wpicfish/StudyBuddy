@@ -1,1 +1,2 @@
-This application is an AI tool that reads files and turns them into flashcards and quizzes
+A project designed to help with studying
+Uses AI to create flashcards and quizzes from .pdf and .txt files
